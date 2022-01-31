@@ -1,0 +1,30 @@
+{
+
+    "mainnet": { 
+      "deployer": "0x0000000000000000000000000000000000000000",
+      "factory": "0x0000000000000000000000000000000000000000",
+      "feeReceiver": "0x0000000000000000000000000000000000000000",
+      "feeSetter": "0x0000000000000000000000000000000000000000"
+    },
+  
+    "harmony": {
+      "deployer": "0x6CD5d036d1697A421F1dEE97c242A3F6C82A3F6d",
+      "factory": "0xE77A7C836720897cd3fBd6c0C0067C5Ca278603F",
+      "feeReceiver": "0x2340Fb341bAc3C1243123Deefac7209296A65f47",
+      "feeSetter": "0x9A462BDfb4195C0394614008505EB0BEde044AE9"
+    },
+  
+    "harmony_testnet": {
+      "deployer": "0xc92edF0c0585cFd38D08606F98C42d528CDbD900",
+      "factory": "0xAE6fc6e36e1c77701299291978bE227a1d9Eea8A",
+      "feeReceiver": "0xc694368E0390A61973b4B7bA529800f265d624d2",
+      "feeSetter": "0x15eaa82328e1404Fc8cEa216602d14e69a0C4bf9"
+    },
+  
+    "rinkeby": {
+      "deployer": "0xf5dFE89F8d12D87AdCaF27537EE27C2CaEF40dDB",
+      "factory": "0xC9ae161dc43957cD56ed7CaC2cC4e302b44Df374",
+      "feeReceiver": "0xFE34C4f12A56c211093e6e933935C9d6a495B979",
+      "feeSetter": "0x6993067c296e5D986f051D34B36f1038Ce524486"
+    }
+  }
